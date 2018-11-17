@@ -83,7 +83,7 @@ author:
   name             : "Ashim Gupta"
   avatar           : "profile.png"
   bio              : "NLP/ML Researcher, IIT Kharagpur"
-  location         : "Kharagpur"
+  location         : "Kharagpur, India"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : ashimgupta95@gmail.com
@@ -106,7 +106,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
